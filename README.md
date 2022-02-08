@@ -16,3 +16,6 @@ Prerequisites:
 5.Give following command:
 
        Gradle clean test
+
+
+![Junit_1](https://user-images.githubusercontent.com/78067017/152962348-4255acfe-4182-4a71-9cc0-8c995048d0fa.PNG)
